@@ -61,7 +61,7 @@ I am particularly motivated by environments that demand clarity, accountability,
 ## Gaming Systems & Environments
 
 ![Steam](https://img.shields.io/badge/Steam-0a1b22?style=for-the-badge&logo=steam&logoColor=e4e7df)
-**Steam:** Adrian - 277361066
+**Steam:** https://steamcommunity.com/id/AdrianAdrovic/
 
 ![PlayStation](https://img.shields.io/badge/PlayStation-0a1b22?style=for-the-badge&logo=playstation&logoColor=e4e7df)
 **PlayStation:** Adrian12Lara3 
