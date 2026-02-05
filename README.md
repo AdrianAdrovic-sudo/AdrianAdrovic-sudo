@@ -1,1 +1,1 @@
-[![Adrian's GitHub stats](https://github-readme-stats-ebon-two-95.vercel.app/api?username=AdrianAdrovic-sudo&show_icons=true&cache_seconds=21600&bg_color=0a1b22&title_color=bfcfb9&text_color=e4e7df&icon_color=2f6f6b&hide_border=true)](https://github.com/AdrianAdrovic-sudo)
+[![Adrian's GitHub stats](https://github-readme-stats-ebon-two-95.vercel.app/api?username=AdrianAdrovic-sudo&show_icons=true&include_all_commits=true&cache_seconds=21600&bg_color=0a1b22&title_color=bfcfb9&text_color=e4e7df&icon_color=2f6f6b&hide_border=true)](https://github.com/AdrianAdrovic-sudo)
